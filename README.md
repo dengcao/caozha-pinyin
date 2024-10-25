@@ -12,15 +12,15 @@ caozha-pinyin，是一个用原生PHP写的中文转拼音的模块。中文转�
 
 支持本程序，请到Gitee和GitHub给我们点Star！
 
-Gitee：https://gitee.com/caozha/caozha-pinyin
+Gitee：https://gitee.com/dengzhenhua/caozha-pinyin
 
-GitHub：https://github.com/cao-zha/caozha-pinyin
+GitHub：https://github.com/dengcao/caozha-pinyin
 
-### 关于开发者
+### 关于
 
-开发：草札 www.caozha.com
+开发：[邓草博客 blog.5300.cn](http://blog.5300.cn)
 
-鸣谢：品络 www.pinluo.com  &ensp;  穷店 www.qiongdian.com
+赞助：[品络互联 www.pinluo.com](http://www.pinluo.com)  &ensp;  [AI工具箱 5300.cn](http://5300.cn)  &ensp;  [汉语言文学网 hyywx.com](http://hyywx.com)  &ensp;  [雄马 xiongma.cn](http://xiongma.cn) &ensp;  [优惠券 tm.gs](http://tm.gs)
 
 ### 功能预览
 
